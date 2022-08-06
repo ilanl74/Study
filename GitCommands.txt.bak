@@ -22,11 +22,6 @@ git branch
 git pull origin main/or any othter branch 
 - get the latest 
 
-git push 
-- push the last commit to the remote repository
-
-git merge [branch]
-- while standing on branch main for example, one can merge changes done on other branch 
-- usualy we will create a branch starting on our work from main and when finished merge to main and remove the branch
+git merge 
 
 
