@@ -1,0 +1,27 @@
+git clone "git url"
+- assosiate the git repository with the local code 
+
+git status 
+- show the deferences between the local and the remote status of the branch 
+
+git add ./[file]
+- stage the changes for all the folder or specific file 
+
+git reset [file]/ without a file name 
+- undo changes (regarding stage) ether for specific file or all files if no file was mantion
+
+git switch -c /or without -c [new branch name]
+- switch branches and if use -c option it will create a new one 
+
+git commit -m "some message"
+- commit the changes with a comment
+
+git branch
+- get the list of branches and flag the current one (the current one can be viewed running git status as well)
+
+git pull origin main/or any othter branch 
+- get the latest 
+
+git merge 
+
+
